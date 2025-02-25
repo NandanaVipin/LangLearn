@@ -1,8 +1,26 @@
-# React + Vite
+#LangLearn
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Introduction
 
-Currently, two official plugins are available:
+LangLearn makes language learning fun with gamification. Explore languages, access resources, complete challenges, and compete with friends.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+
+Learn languages through interactive exercises.
+Earn points, badges, and climb leaderboards.
+Access curated books, courses, and quizzes.
+Track progress with a personalized dashboard.
+
+Usage
+
+Sign Up & Log In: Create an account.
+
+Learn & Play: Complete lessons and challenges.
+
+Earn Rewards: Gain points and achievements.
+
+Track Progress: Monitor your learning journey.
+
+
+
+
